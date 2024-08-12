@@ -20,3 +20,5 @@ Repository for the CENG464 Course that I have taken at IZTECH
 
 Course textbook link: [Speech and Language Processing, An Introduction to Natural Language Processing, Computational
 Linguistics, and Speech Recognition](/Textbook/textbook.pdf)
+
+Link for the imdb dataset used in the Lab 3 is: [IMDB dataset link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download)
