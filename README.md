@@ -19,4 +19,4 @@ Repository for the CENG464 Course that I have taken at IZTECH
 14.  Fine Tuning and Masked Language Models
 
 Course textbook link: [Speech and Language Processing, An Introduction to Natural Language Processing, Computational
-Linguistics, and Speech Recognition](/Textbooks/textbook.pdf)
+Linguistics, and Speech Recognition](/Textbook/textbook.pdf)
